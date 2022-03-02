@@ -1,2 +1,2 @@
 # HIGH HARMONICS 
-Harmony ONE validators
+Harmony ONE validators Team
