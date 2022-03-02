@@ -1,2 +1,2 @@
-# Validator
-harmony ONE validators
+# HIGH HARMONICS 
+Harmony ONE validators
